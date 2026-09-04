@@ -28,6 +28,5 @@ Final-year B.Tech CSE student specializing in Blockchain Technology, based in In
 ---
 
 ### 📬 Connect With Me
-- **Email:** your-email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Competitive Audits:** [CodeHawks Profile](https://codehawks.com) | [Code4rena Profile](https://code4rena.com)
+- **Email:** rezoan2027@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/md-rezoan-013655379/
